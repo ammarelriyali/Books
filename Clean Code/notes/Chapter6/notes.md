@@ -132,7 +132,7 @@ if structure you should use variable
 ``` java 
 final String outputDir = ctxt.options.scratchDir.absolutePath;
 ```
-if clas you should use encapsltion 
+if class you should use encapsltion 
 ``` java 
 ctxt.getAbsolutePathOfScratchDirectoryOption();
 ```
